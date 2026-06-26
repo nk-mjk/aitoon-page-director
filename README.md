@@ -84,6 +84,4 @@ aitoon-page-director/
 
 ## 출처 / 크레딧
 
-0625 세션의 GPT 배치 생성 실측(배치 한계 · 말풍선 · sref 스타일 결합 · 무협 ep01 v1→v2→v3 반복 개선)을 바탕으로 설계했습니다. 연출 명세는 `aitoon-ep`의 교수 연출 시스템을, 스타일 앵커는 `stylish-infographic-by-blue`의 추출 파이프라인을 흡수했습니다.
-
 제작: Blue (조남경) · Midjourney Korea
